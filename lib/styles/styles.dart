@@ -29,7 +29,7 @@ class AppStyle {
 
 @immutable
 class _Text {
-  final TextStyle basicFont = TextStyle(fontFamily: 'Tenor');
+  final TextStyle basicFont = TextStyle(fontFamily: 'BebasNeue');
 
   TextStyle get titleFont => basicFont;
   TextStyle get quoteFont => basicFont;
@@ -39,37 +39,54 @@ class _Text {
 
   late final TextStyle dropCase = copy(quoteFont, sizePx: 56, heightPx: 20);
 
-  late final TextStyle wonderTitle = copy(wonderTitleFont, sizePx: 64, heightPx: 56);
+  late final TextStyle wonderTitle =
+      copy(wonderTitleFont, sizePx: 64, heightPx: 56);
 
   late final TextStyle h1 = copy(titleFont, sizePx: 64, heightPx: 62);
   late final TextStyle h2 = copy(titleFont, sizePx: 32, heightPx: 46);
-  late final TextStyle h3 = copy(titleFont, sizePx: 24, heightPx: 36, weight: FontWeight.w600);
-  late final TextStyle h4 = copy(contentFont, sizePx: 14, heightPx: 23, spacingPc: 5, weight: FontWeight.w600);
+  late final TextStyle h3 =
+      copy(titleFont, sizePx: 24, heightPx: 36, weight: FontWeight.w600);
+  late final TextStyle h4 = copy(contentFont,
+      sizePx: 14, heightPx: 23, spacingPc: 5, weight: FontWeight.w600);
 
-  late final TextStyle title1 = copy(titleFont, sizePx: 16, heightPx: 26, spacingPc: 5);
+  late final TextStyle title1 =
+      copy(titleFont, sizePx: 16, heightPx: 26, spacingPc: 5);
   late final TextStyle title2 = copy(titleFont, sizePx: 14, heightPx: 16.38);
 
   late final TextStyle body = copy(contentFont, sizePx: 16, heightPx: 27);
-  late final TextStyle bodyBold = copy(contentFont, sizePx: 16, heightPx: 26, weight: FontWeight.w600);
+  late final TextStyle bodyBold =
+      copy(contentFont, sizePx: 16, heightPx: 26, weight: FontWeight.w600);
   late final TextStyle bodySmall = copy(contentFont, sizePx: 14, heightPx: 23);
-  late final TextStyle bodySmallBold = copy(contentFont, sizePx: 14, heightPx: 23, weight: FontWeight.w600);
+  late final TextStyle bodySmallBold =
+      copy(contentFont, sizePx: 14, heightPx: 23, weight: FontWeight.w600);
 
-  late final TextStyle quote1 = copy(quoteFont, sizePx: 32, heightPx: 40, weight: FontWeight.w600, spacingPc: -3);
-  late final TextStyle quote2 = copy(quoteFont, sizePx: 21, heightPx: 32, weight: FontWeight.w400);
-  late final TextStyle quote2Sub = copy(body, sizePx: 16, heightPx: 40, weight: FontWeight.w400);
+  late final TextStyle quote1 = copy(quoteFont,
+      sizePx: 32, heightPx: 40, weight: FontWeight.w600, spacingPc: -3);
+  late final TextStyle quote2 =
+      copy(quoteFont, sizePx: 21, heightPx: 32, weight: FontWeight.w400);
+  late final TextStyle quote2Sub =
+      copy(body, sizePx: 16, heightPx: 40, weight: FontWeight.w400);
 
   late final TextStyle caption =
-      copy(contentFont, sizePx: 12, heightPx: 18, weight: FontWeight.w500).copyWith(fontStyle: FontStyle.italic);
+      copy(contentFont, sizePx: 12, heightPx: 18, weight: FontWeight.w500)
+          .copyWith(fontStyle: FontStyle.italic);
 
   late final TextStyle callout =
-      copy(contentFont, sizePx: 16, heightPx: 26, weight: FontWeight.w600).copyWith(fontStyle: FontStyle.italic);
-  late final TextStyle btn = copy(titleFont, sizePx: 12, weight: FontWeight.w600, heightPx: 13.2);
+      copy(contentFont, sizePx: 16, heightPx: 26, weight: FontWeight.w600)
+          .copyWith(fontStyle: FontStyle.italic);
+  late final TextStyle btn =
+      copy(titleFont, sizePx: 12, weight: FontWeight.w600, heightPx: 13.2);
 
-  TextStyle copy(TextStyle style, {required double sizePx, double? heightPx, double? spacingPc, FontWeight? weight}) {
+  TextStyle copy(TextStyle style,
+      {required double sizePx,
+      double? heightPx,
+      double? spacingPc,
+      FontWeight? weight}) {
     return style.copyWith(
         fontSize: sizePx,
         height: heightPx != null ? (heightPx / sizePx) : style.height,
-        letterSpacing: spacingPc != null ? sizePx * spacingPc * 0.01 : style.letterSpacing,
+        letterSpacing:
+            spacingPc != null ? sizePx * spacingPc * 0.01 : style.letterSpacing,
         fontWeight: weight);
   }
 }

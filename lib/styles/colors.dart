@@ -10,6 +10,8 @@ class AppColors {
   final Color greyStrong = const Color(0xFF272625);
   final Color greyMedium = const Color(0xFF9D9995);
   final Color white = Colors.white;
+  final Color blue = Colors.blue;
+  final Color purple = Colors.purple;
   final Color black = const Color(0xFF1E1B18);
 
   ThemeData toThemeData() {
@@ -34,7 +36,8 @@ class AppColors {
 
     /// Now that we have ColorScheme and TextTheme, we can create the ThemeData
     /// Also add on some extra properties that ColorScheme seems to miss
-    var t = ThemeData.from(textTheme: txtTheme, colorScheme: colorScheme).copyWith(
+    var t =
+        ThemeData.from(textTheme: txtTheme, colorScheme: colorScheme).copyWith(
       textSelectionTheme: TextSelectionThemeData(cursorColor: accent1),
       highlightColor: accent1,
     );
