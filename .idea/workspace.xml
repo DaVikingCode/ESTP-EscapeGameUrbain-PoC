@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65f82ac2-dd9d-433e-9e34-7beb24347628" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/egu/escape_game_urbain_ecran/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BebasNeue Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BebasNeue Book.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BebasNeue Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BebasNeue Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BebasNeue Thin.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/BebasNeue.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Panneau Titre/Dune_Rise.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Quizz/bahnschrift_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_back_carte_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_chara_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_coeur_like_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_bleu_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_jaune_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_orange_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_orange_01_tmp16573" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_rose_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_vert_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_vert_01_tmp921" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_familles_violet_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_fond_like_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_fond_titre_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_carte_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_carte_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_carte_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_carte_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_carte_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_like_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_front_like_01_tmp22548" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_new_carte_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Cartes/cartes_new_with_text_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fleche_bas_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fleche_droite_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fleche_haut_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_jaune_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_jaune_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_jaune_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_vert_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_vert_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_vert_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_violet_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_violet_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Parcours/parcours_fond_violet_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Quizz/quizz_chara_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Quizz/quizz_coche_check_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Quizz/quizz_coche_uncheck_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Quizz/quizz_fond_down_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Quizz/quizz_fond_mid_patern_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/Quizz/quizz_fond_top_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/all_background_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/styles/colors.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/styles/styles.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/screens/TestScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/package_20221221100636.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/package_20221222110533.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/package_20221222110539.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/package_20221222111430.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221220163117.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221220163117.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221095447.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221100309.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221100631.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221100656.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221100749.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221100825.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221100836.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101033.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101054.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101058.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101330.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101407.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101549.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101648.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101730.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101822.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101829.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101905.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101908.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101933.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221101945.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103107.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103355.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103538.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103546.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103722.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103731.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103748.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103754.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103820.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103912.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221103919.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221104030.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221104136.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221221104351.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222164817.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222164901.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165045.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165152.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165202.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165211.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165217.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165226.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165430.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165438.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165522.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165619.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165631.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165636.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165650.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165753.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165801.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165907.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165918.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222165948.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170003.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170009.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170013.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170020.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170212.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170214.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170215.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170229.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170434.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170503.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170523.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170531.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170533.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170541.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170546.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170604.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170616.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170642.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170753.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170849.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170904.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170917.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170930.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222170937.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171026.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171043.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171104.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171116.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171125.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171157.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171232.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171238.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171242.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171250.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171304.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171312.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171316.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171334.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171349.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171357.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171402.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171410.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171421.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171540.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171552.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171558.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171602.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171634.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171645.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171723.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171820.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171829.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171836.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171905.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171918.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171927.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171944.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222171948.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172040.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172048.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172100.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172117.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172122.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172210.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172359.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172433.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172504.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172510.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172517.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172524.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172538.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172625.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172633.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172645.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172730.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172755.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172804.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172812.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172820.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222172832.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173133.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173135.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173158.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173202.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173223.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173228.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173336.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173351.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/App_20221222173410.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/index_20221220163117.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.history/src/index_20221222111022.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/BebasNeue Bold.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/BebasNeue Book.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/BebasNeue Light.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/BebasNeue Regular.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/BebasNeue Thin.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/BebasNeue.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/Panneau Titre/Dune_Rise.otf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Font/Quizz/bahnschrift_0.ttf:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_back_carte_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_chara_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_coeur_like_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_bleu_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_jaune_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_orange_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_orange_01_tmp16573:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_rose_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_vert_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_vert_01_tmp921:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_familles_violet_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_fond_like_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_fond_titre_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_carte_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_carte_02.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_carte_03.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_carte_04.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_carte_05.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_like_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_front_like_01_tmp22548:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_new_carte_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Cartes/cartes_new_with_text_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Parcours/parcours_fleche_bas_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Parcours/parcours_fleche_droite_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Parcours/parcours_fleche_haut_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Parcours/parcours_fond_jaune_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Parcours/parcours_fond_vert_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Parcours/parcours_fond_violet_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Quizz/quizz_chara_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Quizz/quizz_coche_check_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Quizz/quizz_coche_uncheck_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Quizz/quizz_fond_down_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Quizz/quizz_fond_mid_patern_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/Quizz/quizz_fond_top_01.png:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/assets/Images/all_background_01.jpg:Zone.Identifier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/windows/runner/win32_window.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2J7zcletcLu401GXjTPb9TVBEJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutter" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\camil\StudioProjects\escape_game_urbain_ecran\assets" />
+      <recent name="C:\Users\camil\StudioProjects\escape_game_urbain_ecran\assets\images\Parcours" />
+      <recent name="C:\Users\camil\StudioProjects\escape_game_urbain_ecran\assets\images" />
+      <recent name="C:\Users\camil\StudioProjects\escape_game_urbain_ecran\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\camil\StudioProjects\escape_game_urbain_ecran\lib\ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65f82ac2-dd9d-433e-9e34-7beb24347628" name="Changes" comment="" />
+      <created>1671443996713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671443996713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
